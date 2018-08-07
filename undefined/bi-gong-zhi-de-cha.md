@@ -2,7 +2,7 @@
 description: 差異
 ---
 
-# 比較 - 共識機制的差異
+# 【比較】共識機制的差異
 
 ![](../.gitbook/assets/youtube-banner-2.jpg)
 
