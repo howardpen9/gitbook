@@ -1,4 +1,8 @@
-# 《Bitcoin: A Peer-to-Peer Electronic Cash System》
+---
+description: '《Bitcoin: A Peer-to-Peer Electronic Cash System》'
+---
+
+# 《Bitcoin》
 
 ## 區塊鏈是什麼？比特幣是什麼？
 

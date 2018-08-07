@@ -2,7 +2,7 @@
 
 * [Consensus Protocol](README.md)
 * [【轉載】比特幣中文版白皮書](zhong-wen-ban-bai-pi.md)
-* [《Bitcoin: A Peer-to-Peer Electronic Cash System》](bitcoin.md)
+* [《Bitcoin》](bitcoin.md)
 * [Bitcoin的特定細節](bitcoin-de-te-ding.md)
 * [比特幣的意義和價值](bi-te-de-yi-he-zhi.md)
 * [比特幣資料](bi-te-liao.md)
