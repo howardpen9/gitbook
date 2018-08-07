@@ -1,7 +1,3 @@
----
-description: ＲＥＥＥＥＥＥ
----
-
 # 《Bitcoin: A Peer-to-Peer Electronic Cash System》
 
 ## 區塊鏈是什麼？比特幣是什麼？
