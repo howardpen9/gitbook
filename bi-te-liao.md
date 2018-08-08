@@ -1,4 +1,8 @@
-# 比特幣資料
+---
+description: 比特幣、BTC、基本資料
+---
+
+# Bitcoin的基本資料
 
 ## 比特幣地址
 
@@ -15,4 +19,8 @@
 區塊連接而成的區塊鏈，隨著比特幣發展接近十周年，一個完整節點所需要下載的完整交易紀錄（從區塊高度從0到現在\)的所有區塊鏈，整個帳本的佔的體積已經快達到[**170GB**](https://charts.bitcoin.com/chart/blockchain-size)了！當然，根據中本聰所提到的概念，體現摩爾定律的發展，這點成長軌跡對於硬盤的儲存空間要求不會造成多大問題。
 
 ![](.gitbook/assets/wei-xin-jie-tu-20180807174552.png)
+
+## 節點的分布
+
+{% embed data="{\"url\":\"https://bitnodes.earn.com/\",\"type\":\"link\",\"title\":\"Global Bitcoin nodes distribution\",\"description\":\"Bitnodes is currently being developed to estimate the size of the Bitcoin network by finding all the reachable nodes in the network.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://bitnodes.earn.com/static/img/apple-touch-icon-144-precomposed.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://bitnodes.earn.com/static/img/bitnodes-logo.png\",\"width\":240,\"height\":240,\"aspectRatio\":1}}" %}
 
