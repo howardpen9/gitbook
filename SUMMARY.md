@@ -2,7 +2,7 @@
 
 * [Consensus Protocol](README.md)
 * [【轉載】比特幣中文版白皮書](whitepaper.md)
-* [《Bitcoin》](bitcoin.md)
+* [Bitcoin](bitcoin.md)
 * [Bitcoin's 特定細節](bitcoin-specific-detail.md)
 * [Bitcoin's 基本資料](bitcoin-information.md)
 * [Bitcoin's 意義和價值](bitcoin-meaning.md)
