@@ -46,7 +46,7 @@
 
 ※後面針對貨幣角度會有更細的討論
 
-{% page-ref page="btc-currency-gold.md" %}
+{% page-ref page="btc-currency-gold/" %}
 
 
 
