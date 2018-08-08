@@ -4,6 +4,8 @@ description: 區塊鏈(Blockchain)、金融科技(FinTech)、Bitcoin、Gold
 
 # 比特幣&黃金－持有者的心智與信心
 
+此文來自於我的Medium、可能排版較佳；[原文網址](https://medium.com/@crypto.peng/%E6%AF%94%E7%89%B9%E5%B9%A3-%E9%BB%83%E9%87%91-%E6%8C%81%E6%9C%89%E8%80%85%E7%9A%84%E5%BF%83%E6%99%BA%E8%88%87%E4%BF%A1%E5%BF%83-e31d69321603)
+
 ![](https://cdn-images-1.medium.com/max/800/0*tXO_zqN8nHWcebQ3.jpg)
 
 > _我們把時空追溯到二次世界大戰，貨幣發生貶值、政府的公信力低落時，民眾把所有有價資產帶在身上而去避難。在當時，黃金無庸置疑是個最保值的商品，因為在當時，黃金是最好隨身攜帶又最有價值的有形資產。_
