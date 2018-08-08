@@ -2,7 +2,7 @@
 description: 比特幣、BTC、基本資料
 ---
 
-# Bitcoin的基本資料
+# Bitcoin's 基本資料
 
 ## 比特幣數量
 
