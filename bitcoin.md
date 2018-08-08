@@ -131,25 +131,7 @@ $$
 
 
 
-
-
-
-
-
-
-![](.gitbook/assets/image%20%281%29.png)
-
-
-
 關鍵字: Bitcoin、
-
-
-
-
-
-
-
-
 
 ## UTXO－錢不會無中生有
 
