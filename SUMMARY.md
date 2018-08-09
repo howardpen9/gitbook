@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Consensus Protocol](README.md)
+* [章節與架構](README.md)
 * [【轉載】比特幣中文版白皮書](whitepaper.md)
 * [Bitcoin](bitcoin.md)
 * [Bitcoin's 特定細節](bitcoin-specific-detail.md)
