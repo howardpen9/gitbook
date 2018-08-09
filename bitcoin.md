@@ -159,3 +159,23 @@ $$
 
 總量的關係與等比級數的總和有關。不過別擔心，至於總量的限制與獎勵我們後面會提得更詳細。
 
+
+
+
+
+
+
+## Proof of Work 工作量證明
+
+打包區塊內的資料、嘗試計算出符合該區塊Hash加密算法的Nounce值，此一連串計算動作便是POW存在的需要。
+
+
+
+
+
+參考此一網站:  [https://anders.com/blockchain/hash.html ](https://anders.com/blockchain/hash.html)
+
+
+
+
+
