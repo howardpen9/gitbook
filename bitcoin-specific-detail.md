@@ -2,7 +2,7 @@
 description: 關於BTC運作的特定細節，以及實際上如何運作。
 ---
 
-# Bitcoin's 特定細節
+# Bitcoin 運作的特定細節
 
 ## 節點認證
 
