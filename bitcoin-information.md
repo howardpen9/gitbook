@@ -4,6 +4,10 @@ description: 比特幣、BTC、基本資料
 
 # Bitcoin's 基本資料
 
+ 2010年5月23日，在第一次比特幣交易中，佛羅里達程序員Laszlo Hanyecz用1萬BTC購買了價值約20美元的披薩，而這些比特幣近期價值已經上億了。這也衍生了每年的5月23日為比特幣披薩日－[Bitcoin Pizza Day](https://cointelegraph.com/news/bitcoin-pizza-day-8-years-later-where-can-you-buy-pizza-with-bitcoin)
+
+![](.gitbook/assets/c28f593450ab238db780f62a0566fd22.png)
+
 ## 比特幣數量
 
 在比特幣網路中，貨幣的發行是通過比特幣協議\(Protocol\)來規定的。貨幣總量受到控制，發行速度隨時間自動進行調整。既然總量一定，那麼單個比特幣的價值會隨著越來越多的經濟實體認可比特幣而水漲船高。發行速度的自動調整則避免出現通脹或者滯漲的情況。
