@@ -46,5 +46,7 @@ description: 比特幣、BTC、基本資料
 
 ## 節點的分布
 
-{% embed data="{\"url\":\"https://bitnodes.earn.com/\",\"type\":\"link\",\"title\":\"Global Bitcoin nodes distribution\",\"description\":\"Bitnodes is currently being developed to estimate the size of the Bitcoin network by finding all the reachable nodes in the network.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://bitnodes.earn.com/static/img/apple-touch-icon-144-precomposed.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://bitnodes.earn.com/static/img/bitnodes-logo.png\",\"width\":240,\"height\":240,\"aspectRatio\":1}}" %}
+![&#x53C3;&#x8003;&#x7DB2;&#x5740;](.gitbook/assets/wei-xin-jie-tu-20180809092451.png)
+
+參考網址 [Bitcoin Global Nodes](https://bitnodes.earn.com/)
 

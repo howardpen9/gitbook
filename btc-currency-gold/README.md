@@ -10,5 +10,13 @@ description: Currency、Gold、Bitcoin.....and Money.
 
 區塊鏈技術現在已經脫離開比特幣網絡自身，在包括金融、貿易、徵信、物聯網、共享經濟等諸多領域嶄露頭角。現在，除非特別指出是“比特幣區塊鏈”，否則當人們提到“區塊鏈技術”進行探討時，往往所指已經與比特幣沒有什麼必然聯系了。
 
+## 貨幣\(Currency\)的基本特性
+
+談論到貨幣的基本特性，參考Investopedia\(投資界的Wiki\)上面的標記是這麼顯示的.....
+
+![From Ivestopedia](../.gitbook/assets/image%20%282%29.png)
+
+問題在於，
+
 
 
