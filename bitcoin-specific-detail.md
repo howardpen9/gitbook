@@ -18,7 +18,7 @@ description: 關於BTC運作的特定細節，以及實際上如何運作。
 
 
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 
 
