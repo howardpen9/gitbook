@@ -46,3 +46,9 @@ description: 比特幣、BTC、基本資料
 
 參考網址 [Bitcoin Global Nodes](https://bitnodes.earn.com/)
 
+
+
+## BTC運輸狀況
+
+[https://txstreet.com/](https://txstreet.com/)
+
