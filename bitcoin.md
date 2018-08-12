@@ -2,7 +2,7 @@
 description: '《Bitcoin: A Peer-to-Peer Electronic Cash System》；白皮書；區塊鏈；比特幣；加密貨幣'
 ---
 
-# Bitcoin
+# 【Bitcoin導讀】
 
 ## 區塊鏈是什麼？比特幣是什麼？
 
@@ -54,4 +54,28 @@ description: '《Bitcoin: A Peer-to-Peer Electronic Cash System》；白皮書�
 * 解決支付時產生的雙花問題
 
  **這里面需要註意的是比特幣系統代替的是中心化中介的信用，並不能保證交易雙方的信用。**
+
+\*\*\*\*
+
+## 共識機制\(Consensus\)
+
+共識機制的存在，目的就是為了解決一致性、同步性，達到安全來避免系統的崩潰。
+
+## 
+
+## 
+
+## 貨幣的非國家化
+
+大家都明白貨幣貶值的困難、
+
+
+
+
+
+
+
+弗里德里希·馮·哈耶克 \(Friedrich von Hayek\) 2007年所寫的《[貨幣的非國家化](https://book.douban.com/subject/2155342/)》
+
+
 
