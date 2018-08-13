@@ -21,23 +21,27 @@ description: 共識機制的討論
 * Proof of Work
 * Proof of Stake
 * DPOS
-* BFT：  PBFT、DBFT
+* BFT
+  * PBFT
+  * DBFT
+  * [Cosmos Consensus Algorithm](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md)
+  * [DEXON Consensus Algorithm](https://dexon.org/#section-top)
 
 
 
-### Proof of Work 工作量證明
-
-123123321
+## Proof of Work 工作量證明
 
 
 
-
-
-### Proof of Stake 權益投票
+## Proof of Stake 權益投票
 
 
 
 
 
+## DEXON Consensus
 
+* reliable broadcast
+  * Total Ordering
+  * Time Stamping
 
