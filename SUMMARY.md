@@ -2,7 +2,7 @@
 
 * [章節與架構](README.md)
 * [【轉】比特幣中文版白皮書](whitepaper/README.md)
-  * [【簡体】比特币白皮書](whitepaper/ti-bi-te-bi-bai-pi.md)
+  * [【簡体】比特币白皮書](whitepaper/2.md)
 * [【白皮書導讀】](bi-te-de-bai-pi-......md)
 * [【Bitcoin】](bitcoin.md)
 * [Bitcoin 運作的特定細節](bitcoin-specific-detail.md)
