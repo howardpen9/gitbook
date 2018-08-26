@@ -2,7 +2,7 @@
 description: '《Bitcoin: A Peer-to-Peer Electronic Cash System》；白皮書；區塊鏈；比特幣；加密貨幣'
 ---
 
-# 【Bitcoin】
+# BTC介紹、電腦科學以外的部分
 
 ## 區塊鏈是什麼？比特幣是什麼？
 
