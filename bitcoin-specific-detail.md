@@ -12,26 +12,26 @@ description: 關於BTC運作的特定細節，以及實際上如何運作。
 
 因為假設在網路暢通下，不誠實的礦工有雜湊率10％的運算能力，[這樣被駭的風險會在0.1％以下](https://en.bitcoin.it/wiki/Confirmation)。若是網路不暢通，則成熟與確認所需的次數都要增加！
 
-![](../.gitbook/assets/tu-2web.jpg)
+![](.gitbook/assets/tu-2web.jpg)
 
 ## 節點的廣播
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
   
 
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
   
 
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
   
 
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 ## 難度值\(Difficulty\)
 
@@ -58,13 +58,13 @@ $$
 
 
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 
 
 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%281%29.png)
 
 
 
