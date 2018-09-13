@@ -1,5 +1,12 @@
 # Reading List
 
+* Mastering Bitcoin [https://github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+* 精通比特幣\(簡體\) [http://book.8btc.com/books/6/masterbitcoin2cn/\_book/](http://book.8btc.com/books/6/masterbitcoin2cn/_book/)
+* 
+
+
+
+
 
 
 * [Cosmos Whitepaper](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md)

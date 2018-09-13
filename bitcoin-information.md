@@ -26,6 +26,14 @@ description: 比特幣、BTC、基本資料
 
 
 
+## 每210,000個區塊後，產量減半
+
+> Since then, one "halving" period has elapsed. The block reward changed to 12.5 bitcoin in July 2016. It will be halved again in 210,000 blocks, in the year 2020.
+
+每二十一萬的區塊生成後，打包時所生成的新的比特幣數量會減半。也就是那些新生成的_coinbase transaction_當中的比特幣。
+
+![](.gitbook/assets/image%20%287%29.png)
+
 ## 算力分布
 
 
