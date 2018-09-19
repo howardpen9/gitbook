@@ -5,6 +5,8 @@
   * [【簡体】比特币白皮書](whitepaper/2.md)
 * [白皮書導讀](bi-te-de-bai-pi-......md)
 * [Bitcoin 運作的特定細節](bitcoin-specific-detail.md)
+* [Ch10【Mining & Consensus】](ch10-mining-and-consensus.md)
+* [交易的組成、結構](jiao-yi-de-cheng.md)
 * [--------------分隔線------------](fen-ge-1.md)
 * [Bitcoin's 基本資料](bitcoin-information.md)
 * [Bitcoin Q&A](untitled.md)

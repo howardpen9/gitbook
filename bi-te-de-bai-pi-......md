@@ -79,7 +79,7 @@ $$
 
 私鑰的產生是跟  [ECDSA](https://en.bitcoin.it/wiki/ECDSA) ~~橢圓曲線數位簽章演算法~~\(**Elliptic Curve Digital Signature Algorithm**\)有關，細分下去是用 [secp256k1](https://en.bitcoin.it/wiki/Secp256k1)的加密法，私鑰的長度會是 256 bit整數長\(基於0與1\)；如果是16進位制則是32 bytes。
 
-![&#x79C1;&#x9470;&#x7684;&#x4E0D;&#x540C;&#x9762;&#x8C8C;](.gitbook/assets/image%20%2816%29.png)
+![&#x79C1;&#x9470;&#x7684;&#x4E0D;&#x540C;&#x9762;&#x8C8C;](.gitbook/assets/image%20%2822%29.png)
 
 ### 公鑰\(Public Key\)
 
