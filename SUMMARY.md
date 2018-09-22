@@ -1,6 +1,7 @@
 # Table of contents
 
 * [章節與架構](README.md)
+* [如何使用此區資料? 繁體轉簡體](ru-he-shi-yong-ci-liao-fan.md)
 * [【轉】比特幣中文版白皮書](whitepaper/README.md)
   * [【簡体】比特币白皮書](whitepaper/2.md)
 * [白皮書導讀](bi-te-de-bai-pi-......md)

@@ -32,7 +32,7 @@ description: 比特幣、BTC、基本資料
 
 每二十一萬的區塊生成後，打包時所生成的新的比特幣數量會減半。也就是那些新生成的_coinbase transaction_當中的比特幣。
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 ## 算力分布
 
