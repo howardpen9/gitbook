@@ -1,4 +1,4 @@
-# Reading List
+# \(補\)【Reading List】
 
 * Mastering Bitcoin [https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)
 * 精通比特幣\(簡體\) [http://book.8btc.com/books/6/masterbitcoin2cn/\_book/](http://book.8btc.com/books/6/masterbitcoin2cn/_book/)

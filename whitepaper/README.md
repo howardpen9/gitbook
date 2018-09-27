@@ -1,4 +1,4 @@
-# 【轉】比特幣中文版白皮書
+# 【繁體】比特幣中文版白皮書
 
 來源網址:  [台北以太坊社群專欄](https://medium.com/taipei-ethereum-meetup/%E6%AF%94%E7%89%B9%E5%B9%A3-%E7%AB%AF%E5%B0%8D%E7%AB%AF%E9%9B%BB%E5%AD%90%E7%8F%BE%E9%87%91%E7%B3%BB%E7%B5%B1-bitcoin-a-peer-to-peer-electronic-cash-system-i-8a52de003c9)  
 英文版白皮書: [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
