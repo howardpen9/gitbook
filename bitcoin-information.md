@@ -62,5 +62,9 @@ description: 比特幣、BTC、基本資料
 
 {% embed data="{\"url\":\"https://txstreet.com/\",\"type\":\"link\",\"title\":\"TxStreet.com - Bitcoin Transaction Visualizer\",\"description\":\"Bitcoin Cash \(BCH\) and Bitcoin \(BTC\) live transaction visualizer. Every tx is a person, and they fill up buses which represent block space.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://txstreet.com/favicon-32x32.ico\",\"width\":32,\"height\":32,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://txstreet.com/img/og.png\",\"width\":2097,\"height\":1200,\"aspectRatio\":0.5722460658082976}}" %}
 
+## 交易手續費Transaction Fee 
 
+![](.gitbook/assets/image%20%2823%29.png)
+
+[https://bitinfocharts.com/comparison/transactionfees-btc-bch-ltc.html\#1y](https://bitinfocharts.com/comparison/transactionfees-btc-bch-ltc.html#1y)
 
