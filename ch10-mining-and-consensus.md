@@ -1,4 +1,4 @@
-# \(待\)Ch10【Mining & Consensus】
+# \(待\)Ch10\_Mining & Consensus
 
 ## 簡介
 
