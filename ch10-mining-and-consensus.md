@@ -1,4 +1,4 @@
-# \(待\)Ch10\_Mining & Consensus
+# \(待\)Ch10:Mining & Consensus
 
 ## 簡介
 
@@ -41,7 +41,7 @@ _The purpose of mining is not the creation of new bitcoin. That’s the **incent
  [Why 每210,000個區塊後，產量減半?](https://cryptopeng.gitbook.io/blockchain/~/drafts/-LNZdGJxdP6bXD6P2mSO/primary/bitcoin-information#mei-210-000-liang-ban)
 {% endhint %}
 
-## Deflation Money - 通貨緊縮的錢
+### Deflation Money - 通貨緊縮的錢
 
 固定的流通量、與逐漸減少的貨幣發行，最有爭議的無非就是**通貨緊縮**、以及貨幣具有某種程度的**蒐藏\(儲藏\)價值**。
 
@@ -86,10 +86,9 @@ BTC的去中心化共識機制相互作用有以下四個程序:
 * 每個節點、都能獨立驗證新的區塊加入到鏈上
 * 通過工作量證明，每個節點都會選擇具有最多計算力\(Computation\)的鏈
 
-## Independent Verification of Transactions
+## Independent Verification of Transactions 交易的獨立驗證
 
-在交易的章節有提過些許的細節**`[Transactions]`**。  
-簡單的來說，BTC網路以及交易系統，便是收集所有的UTXO彙總起來，就是這套貨幣系統。
+在交易的章節有提過些許的細節**`[Transactions]`**。簡單的來說，BTC網路以及交易系統，便是**收集所有的UTXO**彙總起來，就是這套貨幣系統。
 
 提供合適的解鎖腳本、並能將鎖定中的比特幣進行轉移，轉移給新得持有者。而最後的交易結果\(最後誰持有什麼\)、便會廣播出去給周遭節點，逐漸擴散出去。
 
@@ -102,7 +101,30 @@ BTC的去中心化共識機制相互作用有以下四個程序:
 * 交易的大小\(size\)必須小於 MAX\_BLOCK\_SIZE\(區塊可塞進的最大容量\)。
 * 每個Output的加總、必須小於21M Coins；大於 dust threshold
 *  None of the inputs have hash=0, N=–1  \(coinbase transactions should not be relayed\).
-* 
+* .....
+
+上述幾個動作可以主要分成「AcceptToMemoryPool、CheckTransaction、CheckInputs」在Bitcoin運行的網路上。值得注意的是，情況會隨著時間變化，為了符合新型態的拒絕服務攻擊、或是有時放寬規則來包含更多類型的交易。
+
+通過獨立收到每筆交易、並在廣播出去之前"驗證"它；每個節點都有一個可以有效\(但餵經過確認unconfirmed\)的交易事務池。稱作「transaction pool, memory pool」。
+
+{% hint style="info" %}
+**交易池:**每個節點維護一個自己的交易池，用來存放臨時&未經確認的交易。
+
+挖礦節點從交易池中、選擇一系列交易構成一個區塊，基於自身算力找到一個具有足夠難度的工作量證明，找到後向全網所有節點廣播此區塊。
+
+而在一些複雜的交易流程中，一條交易鏈上的父交易、子交易、孫交易等等\(前後交易\)可能同時被構建出來，廣播到網路中。
+
+節點接受到的順序可能並不與交易鏈\(主鏈\)上的順序一致。
+
+當節點找不到子交易對應的父交易時，會先把它放在一個臨時的池中；一旦找到了父交易，所有與該父交易創建的UTXO相關交易會從池中被釋放出來，按順序重新進行驗證，整體交易鏈放入交易池中，等待被區塊挖走。
+
+為了防止針對比特幣節點進行拒絕服務攻擊\(DoS\)，內存中可存儲的孤立交易數量設置了限制，由客戶端代碼中的參數MAX\_ORPHAN\_TRANSACTIONS設定。
+{% endhint %}
+
+## Mining Nodes
+
+節點的種類、隨著功能不同有別；而擔任礦工並不需要運行一個"Full Node"。
+
 
 
 
