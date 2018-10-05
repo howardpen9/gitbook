@@ -1,4 +1,4 @@
-# \(待\)Ch8:網路
+# 60% Ch8:網路
 
 ### Peer-to-peer Network Architecture \(點對點網路架構\)
 
