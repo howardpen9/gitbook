@@ -32,7 +32,7 @@ description: 比特幣、BTC、基本資料
 
 每二十一萬的區塊生成後，打包時所生成的新的比特幣數量會減半。也就是那些新生成的_coinbase transaction_當中的比特幣。
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 #### 比特幣總量
 
@@ -70,7 +70,7 @@ description: 比特幣、BTC、基本資料
 
 ## 交易手續費Transaction Fee 
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 [https://bitinfocharts.com/comparison/transactionfees-btc-bch-ltc.html\#1y](https://bitinfocharts.com/comparison/transactionfees-btc-bch-ltc.html#1y)
 

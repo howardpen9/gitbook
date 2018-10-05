@@ -12,7 +12,7 @@ description: Currency、Gold、Bitcoin.....and Money.
 
 ### 貨幣的基本特性
 
-![From Ivestopedia](../.gitbook/assets/image%20%287%29.png)
+![From Ivestopedia](../.gitbook/assets/image%20%289%29.png)
 
 談論到貨幣\(Currency\)的基本特性，參考Investopedia\(投資界的Wiki\)上面的標記是這麼顯示的.....問題在於，貨幣是否就只有「**基本傳輸的需求**」。
 

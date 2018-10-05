@@ -2,7 +2,7 @@
 
 ## Base58編碼 &  Base58Check 編碼 - 老鼠老虎
 
-![&#x79C1;&#x9470;&#x3001;&#x516C;&#x9470;&#x3001;&#x9322;&#x5305;&#x5730;&#x5740;](.gitbook/assets/image%20%2820%29.png)
+![&#x79C1;&#x9470;&#x3001;&#x516C;&#x9470;&#x3001;&#x9322;&#x5305;&#x5730;&#x5740;](.gitbook/assets/image%20%2825%29.png)
 
 
 
@@ -10,13 +10,13 @@
 
 為了避免Public Address發生紀錄錯誤的情形。
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 ## BTC 腳本語言
 
 比特幣網路中，交易的解析是有腳本\(Script\)性質的。是種簡單的單進程堆疊的概念去理解會簡單得多，交易的步驟如下圖所示。
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 
 
@@ -116,7 +116,7 @@ OP_HASH160 8ac1d7a2fa204a16dc984fa81cfdf86a2a4e1731 OP_EQUAL
 
 ## BTC的文字敘述
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 
 

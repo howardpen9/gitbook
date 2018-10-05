@@ -7,6 +7,7 @@
 * [白皮書導讀](bi-te-de-bai-pi-......md)
 * [Bitcoin 運作的特定細節](bitcoin-specific-detail.md)
 * [--------------------------](undefined-1.md)
+* [\(待\)Ch8:網路](dai-ch8-lu.md)
 * [\(待\)Ch10:Mining & Consensus](ch10-mining-and-consensus.md)
 * [\(待\)交易的組成、結構](jiao-yi-de-cheng.md)
 * [--------------------------](fen-ge-1.md)

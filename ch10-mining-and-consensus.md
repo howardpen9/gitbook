@@ -33,7 +33,7 @@ _The purpose of mining is not the creation of new bitcoin. That’s the **incent
 
 每210,000個區塊高度後，產量減半；也就是約**每四年減半一次**。根據等比減半的概念\(好比摺紙一樣\)，隨者減半次數越多，打包新區塊的獎勵將會近似於 "1 satoshis"
 
-![Supply of bitcoin currency over time based on a geometrically decreasing issuance rate](.gitbook/assets/image.png)
+![Supply of bitcoin currency over time based on a geometrically decreasing issuance rate](.gitbook/assets/image%20%281%29.png)
 
 藉由限額的增發函式、提供了一個抗通膨的貨幣模型。不像法幣貨幣礙於中央機構的設計、造成無限量的增發情形。
 
