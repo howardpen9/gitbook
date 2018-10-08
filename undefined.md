@@ -62,19 +62,17 @@ description: 共識機制的討論
   * [Cosmos Consensus Algorithm](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md)
   * [DEXON Consensus Algorithm](https://dexon.org/#section-top)
 
-## PoW & PoS 
-
-
-
-
-
-### Proof of Work 工作量證明
+## Proof of Work 工作量證明
 
 * 算力問題
 * 
 
 
-### Proof of Stake 權益投票
+## Proof of Stake 權益投票
+
+PoS系統是一種專注於"驗證者\(validator\)角度"的共識機制；權益證明是大家都聽過的簡略介紹，不過為何我會說"角度"呢?
+
+原因是因為考量驗證者叛亂的因素，倘若他做亂\(譬如偽造紀錄、假交易\)，他得承擔自己被抓到時的損失與風險，因為整個系統是跟賞罰有關的。隨著你的權益愈大、你叛亂的誘因應當愈小，驅使你不想叛亂。
 
 * 不需要浪費算力
 * 權益\(資產\)愈多、愈願意去維護帳本的安全
