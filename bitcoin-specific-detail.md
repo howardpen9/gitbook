@@ -16,22 +16,22 @@ description: 關於BTC運作的特定細節，以及實際上如何運作。
 
 ## 節點的廣播
 
-![](.gitbook/assets/image%20%2829%29.png)
-
-  
-
-
-![](.gitbook/assets/image%20%2816%29.png)
-
-  
-
-
-![](.gitbook/assets/image%20%2835%29.png)
-
-  
-
-
 ![](.gitbook/assets/image%20%2831%29.png)
+
+  
+
+
+![](.gitbook/assets/image%20%2817%29.png)
+
+  
+
+
+![](.gitbook/assets/image%20%2837%29.png)
+
+  
+
+
+![](.gitbook/assets/image%20%2833%29.png)
 
 ## 難度值\(Difficulty\)
 
@@ -58,7 +58,7 @@ $$
 
 
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 
 

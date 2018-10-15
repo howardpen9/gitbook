@@ -35,7 +35,7 @@ BTC節點類型與規則
 **BestHeight**  - The block height of this node’s blockchain  
 \(See [GitHub](http://bit.ly/1qlsC7w) for an example of the version network message.\)
 
-![ The initial handshake between peers](.gitbook/assets/image%20%2834%29.png)
+![ The initial handshake between peers](.gitbook/assets/image%20%2836%29.png)
 
 ![Address propagation and discovery](.gitbook/assets/image.png)
 
@@ -88,7 +88,7 @@ $ bitcoin-cli getpeerinfo
 
 介紹區塊如何驗證彼此帳本、當前位置，如何同步。
 
-![Node synchronizing the blockchain by retrieving blocks from a peer](.gitbook/assets/image%20%2820%29.png)
+![Node synchronizing the blockchain by retrieving blocks from a peer](.gitbook/assets/image%20%2821%29.png)
 
 ## Simplified Payment Verification\(SPV\)
 
@@ -121,13 +121,13 @@ Bloom過濾器提供了一個"概率性的判斷機制"，允許SPV節點向對�
 >
 >  **By choosing different length \(N\) bloom filters and a different number \(M\) of hash functions, the bloom filter can be tuned, varying the level of accuracy and therefore privacy.**
 
-![An example of a simplistic bloom filter, with a 16-bit field and three hash functions](.gitbook/assets/image%20%2822%29.png)
+![An example of a simplistic bloom filter, with a 16-bit field and three hash functions](.gitbook/assets/image%20%2823%29.png)
 
 * Filter是一種概率的資料結構\( probabilistic data structure\)；隨著更多模式的添加，它變得愈來愈準確。
 * 如果某個輸入不符合、其中一個Hash出來後會指向零，那麼代表這輸入絕對沒有機會是我們要的數值。
 * .....
 
-![Testing the existence of pattern &quot;Y&quot; in the bloom filter. The result is a definitive negative match, meaning &quot;Definitely Not!&quot;](.gitbook/assets/image%20%2817%29.png)
+![Testing the existence of pattern &quot;Y&quot; in the bloom filter. The result is a definitive negative match, meaning &quot;Definitely Not!&quot;](.gitbook/assets/image%20%2818%29.png)
 
 ### How SPV Nodes Use Bloom Filters
 

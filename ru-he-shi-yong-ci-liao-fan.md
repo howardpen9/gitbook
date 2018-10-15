@@ -4,7 +4,7 @@
 
 首先使用google chrome為示範，首先打開擴充元件\(Extentions\)
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 ## 然後選擇左下角的"Open Chrome Web Store"
 
@@ -20,5 +20,5 @@
 
 ## 選擇 ZH-CN，則之後碰到繁體字便會自動轉成簡體囉!!
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 

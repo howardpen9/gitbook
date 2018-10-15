@@ -32,7 +32,7 @@ description: 比特幣、BTC、基本資料
 
 每二十一萬的區塊生成後，打包時所生成的新的比特幣數量會減半。也就是那些新生成的_coinbase transaction_當中的比特幣。
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 #### 比特幣總量
 
@@ -64,13 +64,13 @@ description: 比特幣、BTC、基本資料
 
 ## BTC運輸狀況
 
-{% embed data="{\"url\":\"https://txhighway.com/\#\",\"type\":\"link\",\"title\":\"TX Highway\",\"description\":\"Analyze BCH and BTC transactions in our transaction highway. \#BitcoinCash is the future of \#Bitcoin\",\"icon\":{\"type\":\"icon\",\"url\":\"https://txhighway.com/assets/favicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://txhighway.com/assets/btc-ad-mob.png\",\"width\":1200,\"height\":628,\"aspectRatio\":0.5233333333333333}}" %}
+{% embed url="https://txhighway.com/\#" %}
 
-{% embed data="{\"url\":\"https://txstreet.com/\",\"type\":\"link\",\"title\":\"TxStreet.com - Bitcoin Transaction Visualizer\",\"description\":\"Bitcoin Cash \(BCH\) and Bitcoin \(BTC\) live transaction visualizer. Every tx is a person, and they fill up buses which represent block space.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://txstreet.com/favicon-32x32.ico\",\"width\":32,\"height\":32,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://txstreet.com/img/og.png\",\"width\":2097,\"height\":1200,\"aspectRatio\":0.5722460658082976}}" %}
+{% embed url="https://txstreet.com/" %}
 
 ## 交易手續費Transaction Fee 
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 [https://bitinfocharts.com/comparison/transactionfees-btc-bch-ltc.html\#1y](https://bitinfocharts.com/comparison/transactionfees-btc-bch-ltc.html#1y)
 

@@ -2,7 +2,7 @@
 
 ## Base58編碼 &  Base58Check 編碼 - 老鼠老虎
 
-![&#x79C1;&#x9470;&#x3001;&#x516C;&#x9470;&#x3001;&#x9322;&#x5305;&#x5730;&#x5740;](.gitbook/assets/image%20%2825%29.png)
+![&#x79C1;&#x9470;&#x3001;&#x516C;&#x9470;&#x3001;&#x9322;&#x5305;&#x5730;&#x5740;](.gitbook/assets/image%20%2826%29.png)
 
 
 
@@ -10,13 +10,13 @@
 
 為了避免Public Address發生紀錄錯誤的情形。
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 ## BTC 腳本語言
 
 比特幣網路中，交易的解析是有腳本\(Script\)性質的。是種簡單的單進程堆疊的概念去理解會簡單得多，交易的步驟如下圖所示。
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 
 
@@ -36,7 +36,7 @@
 
 [https://medium.com/@wilsonhuang/mastering-bitcoin-%E7%AD%86%E8%A8%98-standard-transactions-undone-bfb9b4ed0ed8](https://medium.com/@wilsonhuang/mastering-bitcoin-%E7%AD%86%E8%A8%98-standard-transactions-undone-bfb9b4ed0ed8)
 
-{% embed data="{\"url\":\"https://blog.csdn.net/jerry81333/article/details/56824166\",\"type\":\"link\",\"title\":\"比特币 区块链 几种交易标准详解 P2PKH、P2PK、MS、P2SH加密方式 - CSDN博客\",\"description\":\"快速术语检索 以下文中会可能会用到，以及看此文前可能会需要理解的几个术语。 地址 比特币地址（例如：1DSrfJdB2AnWaFNgSbv3MZC2m74996JafV）由一串字符和数字组成，以阿拉伯数字“1”开头。就像别人向你的email地址发送电子邮件一样，他可以通过你的比特币地址向你发送比特币。  比特币 “比特币”既可以指这种虚拟货币单位，也指比特币网络或者网络节点使用的比特币\",\"icon\":{\"type\":\"icon\",\"url\":\"https://csdnimg.cn/public/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://blog.csdn.net/jerry81333/article/details/56824166" %}
 
 ### P2PK \(Pay-to-Public-Key\)
 
