@@ -172,7 +172,7 @@
 
 這個網路的強健之處在於其結構上的簡潔性。節點們不太需要彼此協調就能同時執行工作。由於訊息不會被傳送到任何特定的地方，因此節點們不需要被識別，只需要以最大努力原則被傳送。節點可以自由選擇離開或重新加入網路，且會接受工作量證明鏈為當節點不在網路時所發生的交易事件之證明。節點以各自的 CPU 運算能力來進行投票，表決對有效區塊的驗證，以不斷延長有效的區塊鏈來表示接受，而以拒絕在無效的區塊之後延長來表示拒絕。這個**共識機制\(consensus mechanism\)**包含了一個端對端的電子貨幣系統所需要的所有規則及獎勵機制。
 
-#### \[參考資料\] {#ecfa}
+#### \[參考資料\] <a id="ecfa"></a>
 
 1. W. Dai, “b-money,” [http://www.weidai.com/bmoney.txt](http://www.weidai.com/bmoney.txt), 1998.
 2. H. Massias, X.S. Avila, and J.-J. Quisquater, “Design of a secure timestamping service with minimal trust requirements,” In _20th Symposium on Information Theory in the Benelux_, May 1999.

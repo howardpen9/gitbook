@@ -45,6 +45,14 @@
 
 數字簽章的功用便是讓你在不洩露私鑰的情形下、依舊擁有使用該筆BTC的能力。在BTC世界中所使用的數字簽章演算法是基於"_Elliptic Curve Digital Signature Algorithm"_，俗稱ECDSA、又名"橢圓曲線數字簽名演算法"。
 
+
+
+
+
+## 進階交易與腳本運行 Ch7. Advanced Tx and Scripting
+
+
+
   
 
 
